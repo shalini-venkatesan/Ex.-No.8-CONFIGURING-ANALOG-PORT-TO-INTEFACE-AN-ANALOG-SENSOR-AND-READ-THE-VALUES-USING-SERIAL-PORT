@@ -314,8 +314,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 ![image](https://github.com/shalini-venkatesan/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118720291/3cc0cae2-2063-43df-aa89-2bd0057bbd6c)
 
+![image](https://github.com/shalini-venkatesan/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118720291/16297083-9815-434d-8c55-1a35acee280f)
+
 ## Result :
-Thus, the code is excecuted successfully 
+Thus, the code is excecuted successfully and the values are mesured.
 
 
 
